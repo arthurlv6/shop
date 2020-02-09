@@ -1,0 +1,16 @@
+D:\program\2020\Shop\Shop.Share\bin\Debug\netstandard2.0\Shop.Share.deps.json
+D:\program\2020\Shop\Shop.Share\bin\Debug\netstandard2.0\Shop.Share.dll
+D:\program\2020\Shop\Shop.Share\bin\Debug\netstandard2.0\Shop.Share.pdb
+D:\program\2020\Shop\Shop.Share\obj\Debug\netstandard2.0\Shop.Share.csprojAssemblyReference.cache
+D:\program\2020\Shop\Shop.Share\obj\Debug\netstandard2.0\Shop.Share.AssemblyInfoInputs.cache
+D:\program\2020\Shop\Shop.Share\obj\Debug\netstandard2.0\Shop.Share.AssemblyInfo.cs
+D:\program\2020\Shop\Shop.Share\obj\Debug\netstandard2.0\Shop.Share.dll
+D:\program\2020\Shop\Shop.Share\obj\Debug\netstandard2.0\Shop.Share.pdb
+D:\program\2020\storebackend\Shop.Share\bin\Debug\netstandard2.0\Shop.Share.deps.json
+D:\program\2020\storebackend\Shop.Share\bin\Debug\netstandard2.0\Shop.Share.dll
+D:\program\2020\storebackend\Shop.Share\bin\Debug\netstandard2.0\Shop.Share.pdb
+D:\program\2020\storebackend\Shop.Share\obj\Debug\netstandard2.0\Shop.Share.csprojAssemblyReference.cache
+D:\program\2020\storebackend\Shop.Share\obj\Debug\netstandard2.0\Shop.Share.AssemblyInfoInputs.cache
+D:\program\2020\storebackend\Shop.Share\obj\Debug\netstandard2.0\Shop.Share.AssemblyInfo.cs
+D:\program\2020\storebackend\Shop.Share\obj\Debug\netstandard2.0\Shop.Share.dll
+D:\program\2020\storebackend\Shop.Share\obj\Debug\netstandard2.0\Shop.Share.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Share", "Shop.Share\Shop.Share.csproj", "{4C85AB6F-12C3-490B-A50E-4E9B1F36D7CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.API", "Shop.API\Shop.API.csproj", "{B2882231-174D-4E55-BB27-2044A70C46AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Web", "Shop.Web\Shop.Web.csproj", "{5EFC052C-4F86-4E57-ADAD-3AAECDBEA712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C85AB6F-12C3-490B-A50E-4E9B1F36D7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C85AB6F-12C3-490B-A50E-4E9B1F36D7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C85AB6F-12C3-490B-A50E-4E9B1F36D7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C85AB6F-12C3-490B-A50E-4E9B1F36D7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2882231-174D-4E55-BB27-2044A70C46AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2882231-174D-4E55-BB27-2044A70C46AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2882231-174D-4E55-BB27-2044A70C46AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2882231-174D-4E55-BB27-2044A70C46AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EFC052C-4F86-4E57-ADAD-3AAECDBEA712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFC052C-4F86-4E57-ADAD-3AAECDBEA712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFC052C-4F86-4E57-ADAD-3AAECDBEA712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFC052C-4F86-4E57-ADAD-3AAECDBEA712}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1065C952-2ABF-444F-ADB3-E1C43160DE53}
+	EndGlobalSection
+EndGlobal

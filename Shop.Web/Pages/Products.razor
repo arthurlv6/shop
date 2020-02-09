@@ -1,0 +1,35 @@
+﻿@page "/Products"
+@inherits ProductsBase
+<h3>Products</h3>
+@if (ProductModels == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table table-sm">
+        <thead>
+            <tr>
+                <th>
+                    Id
+                </th>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Description
+                </th>
+                <th>
+                    Action
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ProductModels)
+            {
+                <ProductLine @key="item" Item="item"></ProductLine>
+            }
+        </tbody>
+    </table>
+}
+
